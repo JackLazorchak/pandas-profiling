@@ -33,7 +33,7 @@ setup(
     install_requires=[
         "numpy>=1.16.0",
         "scipy>=1.4.1",
-        "pandas==0.25.3",
+        "pandas==1.0.1",
         "matplotlib>=3.0.3",  # 3.1.2 for Python > 3.5
         "confuse==1.0.0",
         "jinja2==2.11.1",
